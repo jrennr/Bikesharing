@@ -3,17 +3,20 @@
 
 ## Introduction:
 This report is a detailed analysis of NYC Citibike trip data with the aim of proposing a bike-sharing program in Des Moines. The purpose of this analysis is to understand the usage patterns of bike rentals, identify potential trends, and provide insights to convince investors of the feasibility of a similar program in Des Moines.
-
+=
 ## Analysis Overview:
 The analysis focuses on the NYC Citibike trip data from August 2019. The data includes information on trip duration, user types, genders, start times, and the end times of bike rentals. The primary goal is to gain insights into trip durations, trip frequencies, and user behavior by creating various visualizations.
-
+-------------------
 ### Results:
 
 * Duration of Bike Rentals:
 By visualizing the duration of bike rentals for all riders and gender, the histogram shows that most rentals last between 5 to 15 minutes, indicating that the Citibike program is used most for short-distance travel.
 
+![Trip Duration](https://github.com/jrennr/Bikesharing/blob/main/Average%20Trip%20Duration.png))
+
 * Trips by Hour of the Day and Day of the Week:
 There is higher usage during weekdays' rush hours, especially between 8 AM to 9 AM and 5 PM to 7 PM, suggesting that the bike-sharing program is heavily used by commuters.
+
 
 * User Type and Gender vs. Days of the Week:
 Subscribers use the service more frequently than occasional customers, and more riders are male.
